@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "Crespo+LongevitáTour Virtual",
+ "display": "fullscreen",
  "start_url": "index.htm?installed=true",
  "background_color": "#FFFFFF",
- "display": "fullscreen",
- "name": "Crespo+LongevitáTour Virtual",
  "theme_color": "#FFFFFF"
 }
